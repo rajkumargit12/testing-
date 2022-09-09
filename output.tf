@@ -11,9 +11,9 @@ output "region" {
 # output "aws_key_pair" {
 #   value = aws_key_pair.master.id
 # }
-output "aws_ami" {
-  value = aws_instance.apache1.id
-}
+#output "aws_ami" {
+#   value = aws_instance.apache1.id
+# }
 # # }
 # output "aws_instance"{
 #   value = aws_instance.public_ip.id
